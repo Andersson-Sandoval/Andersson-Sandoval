@@ -1,4 +1,4 @@
-### Bem-vindo(a) ao meu github,nesse espaço colocarei os meus projetos pessoas e de estudos,fique a vontade!! 😁
+### Bem-vindo(a) ao meu github,nesse espaço colocarei os meus projetos pessoas e de estudos,fique a vontade!! 
 
 
 - 🌱 Atualmente estou estudando : HTML,CSS,Javascript e c#
