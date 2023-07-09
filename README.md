@@ -1,7 +1,7 @@
 ### Bem-vindo(a) ao meu github,nesse espaço colocarei os meus projetos pessoas e de estudos,fique a vontade!! 
 
 
-- 🌱 Atualmente estou estudando : HTML,CSS,Javascript e c#
+- 🌱 Atualmente estou estudando : Python
 
 
 <div align="center">
